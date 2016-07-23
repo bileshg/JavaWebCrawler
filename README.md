@@ -6,4 +6,4 @@ This is an implementation of <a href ="http://www.programcreek.com/2012/12/how-t
  How to start the crawler.
 
  1. Run the scripts from  scripts/DbScripts.sql
- 2. Run the code in eclipse
+ 2. Run the code in IntelliJ IDEA
